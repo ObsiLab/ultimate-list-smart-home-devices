@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "The Ultimate List of Smart-Home Devices."
+permalink: /
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lucasplacentino/ultimate-list-smart-home-devices/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
