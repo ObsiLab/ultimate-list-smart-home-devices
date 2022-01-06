@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Home
+title: Homepage
 nav_order: 1
-description: "The Ultimate List of Smart-Home Devices."
+description: "The Ultimate List of Smart-Home Devices"
 permalink: /
 ---
 
-# Welcome to GitHub Pages
+# Welcome to theUltimate Lis of Smart-Home Devices
 
