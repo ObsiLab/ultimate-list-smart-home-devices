@@ -1,2 +1,104 @@
-remote_theme: poole/hyde
-# cayman, jekyll-theme-chirpy, just-the-docs
+# THEME :
+remote_theme: pmarsceill/just-the-docs
+#remote_theme: ?/jekyll-theme-chirpy, pmarsceill/just-the-docs, poole/hyde, kitian616/jekyll-TeXt-theme
+#theme: cayman
+
+
+# COLOR THEME :
+# Color scheme supports "light" (default) and "dark"
+color_scheme: light
+# need to add switchable color theme via a button
+# https://pmarsceill.github.io/just-the-docs/docs/customization/#switchable-custom-scheme
+
+
+# LOGO :
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/logo.png"
+
+
+# SEARCH :
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 2
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 3
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 5
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 10
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: false
+  
+
+# TOP RIGHT LINKS :
+# Aux links for the upper right navigation
+aux_links:
+  "Contribute to the list on GitHub!":
+    - "//github.com/lucasplacentino/ultimate-list-smart-home-devices"
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+  
+
+# HEADING ANCHOR :
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+# Supports true (default) or false
+heading_anchors: true
+
+
+# FOOTER :
+# Footer content
+# appears at the bottom of every page's main content
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
+footer_content: "Created by <a href=\"https://github.com/lucasplacentino">Lucas Placentino</a>. Distributed by an <a href=\"https://github.com/lucasplacentino/ultimate-list-smart-home-devices/blob/3c01e0498c492b0e6138a9955b8cd785be827c6e/LICENSE\">MIT license.</a>"
+# Footer last edited timestamp
+#last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+#last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/lucasplacentino/ultimate-list-smart-home-devices" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+
+# GOOGLE ANALYTICS :
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+#ga_tracking: UA-..........
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Ultimate List of Smart-Home Devices
+description: The ultimate list of smart-home devices: their functions, capabilities, connectivity, integrations, security, availability, etc.
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ulshd.obsi.tk" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: pretty
+
+
+
