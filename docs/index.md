@@ -6,5 +6,5 @@ description: "The Ultimate List of Smart-Home Devices"
 permalink: /
 ---
 
-# Welcome to theUltimate Lis of Smart-Home Devices
+# Welcome to the Ultimate Lis of Smart-Home Devices
 
