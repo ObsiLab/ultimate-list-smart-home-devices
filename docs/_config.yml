@@ -96,7 +96,7 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 title: Ultimate List of Smart-Home Devices
 description: The ultimate list of smart-home devices: their functions, capabilities, connectivity, integrations, security, availability, etc.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ulshd.obsi.tk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://smart.obsi.tk" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 

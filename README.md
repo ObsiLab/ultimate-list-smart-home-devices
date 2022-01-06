@@ -3,4 +3,4 @@ The Ultimate List of Smart-Home Devices: their functions, capabilities, connecti
 
 # _WIP_
 
-### Will be available at https://ulshd.obsi.tk/
+### Will be available at https://smart.obsi.tk/
