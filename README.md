@@ -4,3 +4,7 @@ The Ultimate List of Smart-Home Devices: their functions, capabilities, connecti
 # _WIP_
 
 ### Will be available at https://smart.obsi.tk/
+
+<!--
+use https://idratherbewriting.com/documentation-theme-jekyll/mydoc_tables.html ?
+-->
