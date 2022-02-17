@@ -48,7 +48,7 @@ search:
 # TOP RIGHT LINKS :
 # Aux links for the upper right navigation
 aux_links:
-  "Contribute to the list on GitHub!":
+  "See an error? Want to contribute? Help us on GitHub!":
     - "//github.com/lucasplacentino/ultimate-list-smart-home-devices"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
