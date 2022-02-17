@@ -1,6 +1,6 @@
 ---
 name: Error/Mistake
-about: Create an error report to help us improve
+about: Create an error report to help us fix it
 title: "[ERROR] "
 labels: error
 assignees: ''
